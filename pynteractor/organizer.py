@@ -13,7 +13,7 @@ Examples:
 """
 
 from six import with_metaclass
-from collections import Iterable
+from collections.abc import Iterable
 
 from pynteractor import Interactor
 
